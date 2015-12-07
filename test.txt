@@ -2,9 +2,5 @@ hello?
 meh
 building a stairway to heaven
 all the medicine
-<<<<<<< HEAD
 walk away
-=======
-
 go
->>>>>>> b9fbf5e39688314afc66a302027420d2881a99a7
