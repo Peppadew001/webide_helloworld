@@ -7,7 +7,14 @@ go
 lalalala
 ewqewqeqwwe
 dwdwdwdw
+<<<<<<< HEAD
 arg
 dasdadasdadsa
 
 change from Desktop
+=======
+dadadadaaaaaa
+argh
+
+dasdadada
+>>>>>>> origin/master
